@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "un9Pisnjx/Vvq9zs/pY919bxg6isTWDCbZDzm6Q44fmp+rZBaCbH41wuSrVJSR+qyvcvZ9QBMZkYHnhbIdcdig==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\Interviews\\Wealth\\Repo\\Wealth_Int2025\\Wealth.Assets.API-GQL\\Wealth.Assets.API-GQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamme\\.nuget\\packages\\hotchocolate.aspnetcore\\15.1.8\\hotchocolate.aspnetcore.15.1.8.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\hotchocolate.data\\15.1.8\\hotchocolate.data.15.1.8.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\microsoft.data.sqlite\\9.0.8\\microsoft.data.sqlite.9.0.8.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.8\\microsoft.data.sqlite.core.9.0.8.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.1.10\\sqlitepclraw.provider.dynamic_cdecl.2.1.10.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\hamme\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

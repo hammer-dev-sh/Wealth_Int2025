@@ -1,0 +1,493 @@
+[
+  {
+    "assetDescription": null,
+    "assetId": "qJfnKleFCUW6rlYsKEGiEA",
+    "assetInfo": "{\"nickname\":\"Cash Test\",\"descriptionEstatePlan\":\"\",\"estimateValue\":5000,\"purchaseCost\":0,\"asOfDate\":\"2025-03-28T15:55:22+00:00\",\"isFavorite\":false}",
+    "assetInfoType": "ManualCash",
+    "assetMask": null,
+    "assetName": null,
+    "assetOwnerName": null,
+    "balanceAsOf": "2025-03-28T15:55:22+00:00",
+    "balanceCostBasis": 0.0,
+    "balanceCostFrom": "UserManual",
+    "balanceCurrent": 5000.0,
+    "balanceFrom": "UserManual",
+    "balancePrice": null,
+    "balancePriceFrom": "UserManual",
+    "balanceQuantityCurrent": 5000.0,
+    "beneficiaryComposition": null,
+    "cognitoId": "d92f061e-a6b4-4292-97ab-3fd76d4e3442",
+    "creationDate": "2025-03-28T15:55:36+00:00",
+    "currencyCode": null,
+    "deactivateBy": null,
+    "descriptionEstatePlan": "",
+    "hasInvestment": null,
+    "holdings": null,
+    "includeInNetWorth": true,
+    "institutionId": 101,
+    "institutionName": null,
+    "integration": null,
+    "integrationAccountId": null,
+    "isActive": true,
+    "isAsset": true,
+    "isFavorite": false,
+    "isLinkedVendor": null,
+    "lastUpdate": "2025-01-01T16:55:22+00:00",
+    "lastUpdateAttempt": "2025-03-28T16:16:13+00:00",
+    "logoName": null,
+    "modificationDate": "2025-03-28T16:16:13+00:00",
+    "nextUpdate": null,
+    "nickname": "Cash Test",
+    "note": null,
+    "noteDate": null,
+    "ownership": null,
+    "primaryAssetCategory": "Cash",
+    "status": null,
+    "statusCode": null,
+    "userInstitutionId": "i7zh3OMH4UOEjbj2xuHMkw",
+    "vendorAccountType": null,
+    "vendorContainer": null,
+    "vendorResponse": null,
+    "vendorResponseType": "Other",
+    "wealthAssetType": "Cash",
+    "wid": "ae0df17e-514e-4f52-a0b5-5bfb1adf84c9"
+  },
+  {
+    "assetDescription": null,
+    "assetId": "5t6tl3l0HUmjR9024mqBVA",
+    "assetInfo": "{\"slug\":\"bitcoin\",\"symbol\":\"BTC\",\"cryptocurrencyName\":\"Bitcoin (BTC)\",\"quantity\":5,\"nickname\":\"Crypto Test\",\"estimateValue\":428620.0107999212,\"purchaseCost\":0,\"asOfDate\":\"2025-03-30T01:00:26+00:00\",\"isFavorite\":false}",
+    "assetInfoType": "ManualCryptocurrency",
+    "assetMask": null,
+    "assetName": null,
+    "assetOwnerName": null,
+    "balanceAsOf": "2025-03-31T01:00:26+00:00",
+    "balanceCostBasis": 0.0,
+    "balanceCostFrom": "UserManual",
+    "balanceCurrent": 416285.7540045374,
+    "balanceFrom": "Vendor",
+    "balancePrice": 83257.15080090748,
+    "balancePriceFrom": "UserManual",
+    "balanceQuantityCurrent": 5.0,
+    "beneficiaryComposition": null,
+    "cognitoId": "d92f061e-a6b4-4292-97ab-3fd76d4e3442",
+    "creationDate": "2025-03-28T15:57:03+00:00",
+    "currencyCode": null,
+    "deactivateBy": null,
+    "descriptionEstatePlan": "",
+    "hasInvestment": null,
+    "holdings": {
+      "majorAssetClasses": [
+        {
+          "assetClasses": [
+            {
+              "minorAssetClass": "Other",
+              "value": 428620.0107999212
+            }
+          ],
+          "majorClass": "AlternativeInvestments"
+        }
+      ]
+    },
+    "includeInNetWorth": true,
+    "institutionId": 101,
+    "institutionName": null,
+    "integration": null,
+    "integrationAccountId": null,
+    "isActive": true,
+    "isAsset": true,
+    "isFavorite": false,
+    "isLinkedVendor": null,
+    "lastUpdate": "2025-03-31T01:00:26+00:00",
+    "lastUpdateAttempt": "2025-03-31T15:16:40+00:00",
+    "logoName": "cryptocurrency/favicon/bitcoin.png",
+    "modificationDate": "2025-03-31T15:16:40+00:00",
+    "nextUpdate": null,
+    "nickname": "Crypto Test",
+    "note": null,
+    "noteDate": null,
+    "ownership": null,
+    "primaryAssetCategory": "Investment",
+    "status": "Updated to last price",
+    "statusCode": "AutoUpdateAvailable",
+    "userInstitutionId": "i7zh3OMH4UOEjbj2xuHMkw",
+    "vendorAccountType": null,
+    "vendorContainer": null,
+    "vendorResponse": null,
+    "vendorResponseType": "Other",
+    "wealthAssetType": "Cryptocurrency",
+    "wid": "ae0df17e-514e-4f52-a0b5-5bfb1adf84c9"
+  },
+  {
+    "assetDescription": null,
+    "assetId": "4Xal3Zc5Ekq1JBeFeq8veQ",
+    "assetInfo": "{\"manualAddType\":0,\"modelYear\":0,\"nickname\":\"Vehicle Test\",\"descriptionEstatePlan\":\"\",\"estimateValue\":30000,\"purchaseCost\":0,\"asOfDate\":\"2025-03-28T15:57:34+00:00\",\"isFavorite\":false}",
+    "assetInfoType": "ManualVehicle",
+    "assetMask": null,
+    "assetName": null,
+    "assetOwnerName": null,
+    "balanceAsOf": "2025-03-28T15:57:34+00:00",
+    "balanceCostBasis": 0.0,
+    "balanceCostFrom": "UserManual",
+    "balanceCurrent": 30000.0,
+    "balanceFrom": "UserManual",
+    "balancePrice": null,
+    "balancePriceFrom": "UserManual",
+    "balanceQuantityCurrent": null,
+    "beneficiaryComposition": null,
+    "cognitoId": "d92f061e-a6b4-4292-97ab-3fd76d4e3442",
+    "creationDate": "2025-03-28T15:58:22+00:00",
+    "currencyCode": null,
+    "deactivateBy": null,
+    "descriptionEstatePlan": "",
+    "hasInvestment": null,
+    "holdings": null,
+    "includeInNetWorth": true,
+    "institutionId": 101,
+    "institutionName": null,
+    "integration": null,
+    "integrationAccountId": null,
+    "isActive": true,
+    "isAsset": true,
+    "isFavorite": false,
+    "isLinkedVendor": null,
+    "lastUpdate": "2025-03-28T15:57:34+00:00",
+    "lastUpdateAttempt": "2025-03-28T18:44:34+00:00",
+    "logoName": null,
+    "modificationDate": "2025-03-28T18:44:34+00:00",
+    "nextUpdate": null,
+    "nickname": "Vehicle Test",
+    "note": null,
+    "noteDate": null,
+    "ownership": null,
+    "primaryAssetCategory": "OtherProperty",
+    "status": null,
+    "statusCode": null,
+    "userInstitutionId": "i7zh3OMH4UOEjbj2xuHMkw",
+    "vendorAccountType": null,
+    "vendorContainer": null,
+    "vendorResponse": null,
+    "vendorResponseType": "Other",
+    "wealthAssetType": "Vehicle",
+    "wid": "ae0df17e-514e-4f52-a0b5-5bfb1adf84c9"
+  },
+  {
+    "assetDescription": null,
+    "assetId": "avRVVjwlXUCWsuciDZfbYg",
+    "assetInfo": "{\"streetAddress\":\"1625 East Berridge Lane\",\"streetAddress2\":\"\",\"city\":\"Phoenix\",\"state\":\"Arizona\",\"zipCode\":\"85016\",\"countryCode\":\"US\",\"useZillow\":false,\"neighborhood\":\"Madison Village\",\"nickname\":\"Real Estate Test\",\"descriptionEstatePlan\":\"\",\"estimateValue\":800000,\"purchaseCost\":600000,\"purchaseDate\":\"2024-06-01T04:00:00+00:00\",\"asOfDate\":\"2025-03-28T15:59:49+00:00\",\"holdings\":{\"majorAssetClasses\":[{\"majorClass\":\"AlternativeInvestments\",\"assetClasses\":[{\"minorAssetClass\":\"PersonalRealEstate\",\"value\":800000}]}]},\"isFavorite\":false}",
+    "assetInfoType": "ManualRealEstate",
+    "assetMask": null,
+    "assetName": null,
+    "assetOwnerName": null,
+    "balanceAsOf": "2025-03-28T15:59:49+00:00",
+    "balanceCostBasis": 600000.0,
+    "balanceCostFrom": "UserManual",
+    "balanceCurrent": 800000.0,
+    "balanceFrom": "UserManual",
+    "balancePrice": null,
+    "balancePriceFrom": "UserManual",
+    "balanceQuantityCurrent": null,
+    "beneficiaryComposition": null,
+    "cognitoId": "d92f061e-a6b4-4292-97ab-3fd76d4e3442",
+    "creationDate": "2025-03-28T15:59:49+00:00",
+    "currencyCode": null,
+    "deactivateBy": null,
+    "descriptionEstatePlan": "",
+    "hasInvestment": null,
+    "holdings": {
+      "majorAssetClasses": [
+        {
+          "assetClasses": [
+            {
+              "minorAssetClass": "PersonalRealEstate",
+              "value": 800000.0
+            }
+          ],
+          "majorClass": "AlternativeInvestments"
+        }
+      ]
+    },
+    "includeInNetWorth": true,
+    "institutionId": 101,
+    "institutionName": null,
+    "integration": null,
+    "integrationAccountId": null,
+    "isActive": true,
+    "isAsset": true,
+    "isFavorite": false,
+    "isLinkedVendor": null,
+    "lastUpdate": "2025-03-28T15:59:49+00:00",
+    "lastUpdateAttempt": "2025-03-30T04:22:25+00:00",
+    "logoName": null,
+    "modificationDate": "2025-03-30T04:22:25+00:00",
+    "nextUpdate": null,
+    "nickname": "Real Estate Test",
+    "note": null,
+    "noteDate": null,
+    "ownership": null,
+    "primaryAssetCategory": "RealEstate",
+    "status": null,
+    "statusCode": null,
+    "userInstitutionId": "i7zh3OMH4UOEjbj2xuHMkw",
+    "vendorAccountType": null,
+    "vendorContainer": null,
+    "vendorResponse": null,
+    "vendorResponseType": "Other",
+    "wealthAssetType": "RealEstate",
+    "wid": "ae0df17e-514e-4f52-a0b5-5bfb1adf84c9"
+  },
+  {
+    "assetDescription": null,
+    "assetId": "b33J05h1jkaSuAEmWMPXaw",
+    "assetInfo": "{\"nickname\":\"Investment Account\",\"descriptionEstatePlan\":\"\",\"estimateValue\":47500,\"purchaseCost\":0,\"asOfDate\":\"2025-03-29T20:19:31+00:00\",\"holdings\":{\"majorAssetClasses\":[{\"majorClass\":\"CashDepositsMoneyMarketFunds\",\"assetClasses\":[{\"minorAssetClass\":\"Cash\",\"value\":0},{\"minorAssetClass\":\"DepositsMoneyMarketFunds\",\"value\":0}]},{\"majorClass\":\"FixedIncome\",\"assetClasses\":[{\"minorAssetClass\":\"InvestmentGradeFixedIncome\",\"value\":0},{\"minorAssetClass\":\"HybridFixedIncome\",\"value\":0},{\"minorAssetClass\":\"OtherFixedIncome\",\"value\":0}]},{\"majorClass\":\"PublicEquity\",\"assetClasses\":[{\"minorAssetClass\":\"UsEquity\",\"value\":0},{\"minorAssetClass\":\"NonUsEquity\",\"value\":0},{\"minorAssetClass\":\"GlobalEquity\",\"value\":0},{\"minorAssetClass\":\"IncomeOrientedEquity\",\"value\":0},{\"minorAssetClass\":\"OtherEquity\",\"value\":0}]},{\"majorClass\":\"AlternativeInvestments\",\"assetClasses\":[{\"minorAssetClass\":\"PrivateEquity\",\"value\":7000},{\"minorAssetClass\":\"HedgeFunds\",\"value\":8000},{\"minorAssetClass\":\"RealEstate\",\"value\":0},{\"minorAssetClass\":\"Commodities\",\"value\":0},{\"minorAssetClass\":\"VentureCapital\",\"value\":0},{\"minorAssetClass\":\"PersonalRealEstate\",\"value\":0},{\"minorAssetClass\":\"Other\",\"value\":0}]},{\"majorClass\":\"OtherInvestments\",\"assetClasses\":[{\"minorAssetClass\":\"AssetAllocation\",\"value\":9000},{\"minorAssetClass\":\"Miscellaneous\",\"value\":10000}]},{\"majorClass\":\"Liabilities\",\"assetClasses\":[{\"minorAssetClass\":\"CreditCard\",\"value\":-17500},{\"minorAssetClass\":\"Loan\",\"value\":0},{\"minorAssetClass\":\"IntraFamilyLoan\",\"value\":0},{\"minorAssetClass\":\"OtherLiability\",\"value\":0},{\"minorAssetClass\":\"ResidentialMortgages\",\"value\":0},{\"minorAssetClass\":\"SecurityBasedLoans\",\"value\":0},{\"minorAssetClass\":\"StructuredLoans\",\"value\":0}]}]},\"isFavorite\":false}",
+    "assetInfoType": "ManualBrokerage",
+    "assetMask": null,
+    "assetName": null,
+    "assetOwnerName": null,
+    "balanceAsOf": "2025-03-29T20:19:31+00:00",
+    "balanceCostBasis": 0.0,
+    "balanceCostFrom": "UserManual",
+    "balanceCurrent": 47500.0,
+    "balanceFrom": "UserManual",
+    "balancePrice": null,
+    "balancePriceFrom": "UserManual",
+    "balanceQuantityCurrent": null,
+    "beneficiaryComposition": null,
+    "cognitoId": "d92f061e-a6b4-4292-97ab-3fd76d4e3442",
+    "creationDate": "2025-03-29T20:21:10+00:00",
+    "currencyCode": null,
+    "deactivateBy": null,
+    "descriptionEstatePlan": "",
+    "hasInvestment": null,
+    "holdings": {
+      "majorAssetClasses": [
+        {
+          "assetClasses": [
+            {
+              "minorAssetClass": "Cash",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "DepositsMoneyMarketFunds",
+              "value": 0.0
+            }
+          ],
+          "majorClass": "CashDepositsMoneyMarketFunds"
+        },
+        {
+          "assetClasses": [
+            {
+              "minorAssetClass": "InvestmentGradeFixedIncome",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "HybridFixedIncome",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "OtherFixedIncome",
+              "value": 0.0
+            }
+          ],
+          "majorClass": "FixedIncome"
+        },
+        {
+          "assetClasses": [
+            {
+              "minorAssetClass": "UsEquity",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "NonUsEquity",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "GlobalEquity",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "IncomeOrientedEquity",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "OtherEquity",
+              "value": 0.0
+            }
+          ],
+          "majorClass": "PublicEquity"
+        },
+        {
+          "assetClasses": [
+            {
+              "minorAssetClass": "PrivateEquity",
+              "value": 7000.0
+            },
+            {
+              "minorAssetClass": "HedgeFunds",
+              "value": 8000.0
+            },
+            {
+              "minorAssetClass": "RealEstate",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "Commodities",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "VentureCapital",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "PersonalRealEstate",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "Other",
+              "value": 0.0
+            }
+          ],
+          "majorClass": "AlternativeInvestments"
+        },
+        {
+          "assetClasses": [
+            {
+              "minorAssetClass": "AssetAllocation",
+              "value": 9000.0
+            },
+            {
+              "minorAssetClass": "Miscellaneous",
+              "value": 10000.0
+            }
+          ],
+          "majorClass": "OtherInvestments"
+        },
+        {
+          "assetClasses": [
+            {
+              "minorAssetClass": "CreditCard",
+              "value": -17500.0
+            },
+            {
+              "minorAssetClass": "Loan",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "IntraFamilyLoan",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "OtherLiability",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "ResidentialMortgages",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "SecurityBasedLoans",
+              "value": 0.0
+            },
+            {
+              "minorAssetClass": "StructuredLoans",
+              "value": 0.0
+            }
+          ],
+          "majorClass": "Liabilities"
+        }
+      ]
+    },
+    "includeInNetWorth": true,
+    "institutionId": 101,
+    "institutionName": null,
+    "integration": null,
+    "integrationAccountId": null,
+    "isActive": true,
+    "isAsset": true,
+    "isFavorite": false,
+    "isLinkedVendor": null,
+    "lastUpdate": "2024-12-31T21:19:31+00:00",
+    "lastUpdateAttempt": "2025-03-29T20:43:47+00:00",
+    "logoName": null,
+    "modificationDate": "2025-03-29T20:43:47+00:00",
+    "nextUpdate": null,
+    "nickname": "Investment Account",
+    "note": null,
+    "noteDate": null,
+    "ownership": null,
+    "primaryAssetCategory": "Investment",
+    "status": null,
+    "statusCode": null,
+    "userInstitutionId": "i7zh3OMH4UOEjbj2xuHMkw",
+    "vendorAccountType": null,
+    "vendorContainer": null,
+    "vendorResponse": null,
+    "vendorResponseType": "Other",
+    "wealthAssetType": "Brokerage",
+    "wid": "ae0df17e-514e-4f52-a0b5-5bfb1adf84c9"
+  },
+  {
+    "assetDescription": null,
+    "assetId": "EuGiFOXJoECzFWT6t4sBfw",
+    "assetInfo": "{\"streetAddress\":\"1625 East Berridge Lane\",\"streetAddress2\":\"\",\"city\":\"Phoenix\",\"state\":\"Arizona\",\"zipCode\":\"85016\",\"countryCode\":\"US\",\"useZillow\":false,\"neighborhood\":\"Madison Village\",\"nickname\":\"Test Real Estate\",\"descriptionEstatePlan\":\"\",\"estimateValue\":751200,\"purchaseCost\":600000,\"purchaseDate\":\"2023-06-01T04:00:00+00:00\",\"asOfDate\":\"2025-03-30T04:43:45+00:00\",\"holdings\":{\"majorAssetClasses\":[{\"majorClass\":\"AlternativeInvestments\",\"assetClasses\":[{\"minorAssetClass\":\"PersonalRealEstate\",\"value\":650000.00}]}]},\"isFavorite\":false}",
+    "assetInfoType": "ManualRealEstate",
+    "assetMask": null,
+    "assetName": null,
+    "assetOwnerName": null,
+    "balanceAsOf": "2025-03-30T04:43:45+00:00",
+    "balanceCostBasis": 600000.0,
+    "balanceCostFrom": "UserManual",
+    "balanceCurrent": 751200.0,
+    "balanceFrom": "UserManual",
+    "balancePrice": null,
+    "balancePriceFrom": "UserManual",
+    "balanceQuantityCurrent": null,
+    "beneficiaryComposition": null,
+    "cognitoId": "d92f061e-a6b4-4292-97ab-3fd76d4e3442",
+    "creationDate": "2025-03-30T04:44:22+00:00",
+    "currencyCode": null,
+    "deactivateBy": null,
+    "descriptionEstatePlan": "",
+    "hasInvestment": null,
+    "holdings": {
+      "majorAssetClasses": [
+        {
+          "assetClasses": [
+            {
+              "minorAssetClass": "PersonalRealEstate",
+              "value": 650000.0
+            }
+          ],
+          "majorClass": "AlternativeInvestments"
+        }
+      ]
+    },
+    "includeInNetWorth": true,
+    "institutionId": 101,
+    "institutionName": null,
+    "integration": null,
+    "integrationAccountId": null,
+    "isActive": true,
+    "isAsset": true,
+    "isFavorite": false,
+    "isLinkedVendor": null,
+    "lastUpdate": "2025-03-30T04:43:45+00:00",
+    "lastUpdateAttempt": "2025-03-30T04:44:48+00:00",
+    "logoName": null,
+    "modificationDate": "2025-03-30T04:44:48+00:00",
+    "nextUpdate": null,
+    "nickname": "Test Real Estate",
+    "note": null,
+    "noteDate": null,
+    "ownership": null,
+    "primaryAssetCategory": "RealEstate",
+    "status": null,
+    "statusCode": null,
+    "userInstitutionId": "i7zh3OMH4UOEjbj2xuHMkw",
+    "vendorAccountType": null,
+    "vendorContainer": null,
+    "vendorResponse": null,
+    "vendorResponseType": "Other",
+    "wealthAssetType": "RealEstate",
+    "wid": "ae0df17e-514e-4f52-a0b5-5bfb1adf84c9"
+  }
+]

@@ -1,0 +1,6 @@
+@Wealth.Assets.API_GQL_HostAddress = http://localhost:5090
+
+GET {{Wealth.Assets.API_GQL_HostAddress}}/graphql/
+Accept: application/json
+
+###

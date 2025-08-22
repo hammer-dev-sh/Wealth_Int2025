@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Wealth.Assets.API-GQL.props" />
+</Project>
